@@ -5,7 +5,7 @@ def function():
     """
     return nothing
 
-okk
+ok
 
 class Test():
     def add(a, b):
